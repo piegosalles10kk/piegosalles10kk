@@ -49,7 +49,7 @@
         <td width="50%" align="center" style="padding-right: 5%;">
             <h3>Bancos de Dados</h3>
                 <a href="https://skillicons.dev" target="_blank">
-                <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite" />
+                <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
                 </a>
         </td>
         <td width="50%" align="center" style="padding-left: 5%;">
