@@ -90,6 +90,7 @@
 
 ## 🛠️ Competências Técnicas (Tech Stack)
 
+<div>
 <p>
   Foco em código limpo, contêineres e deploy eficiente, cobrindo todo o espectro do desenvolvimento.
 </p>
@@ -107,6 +108,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,spring,ruby,rails" />
   </a>
 </p>
+</div>
 
 ### Bancos de Dados
 <p>
