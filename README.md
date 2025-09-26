@@ -103,7 +103,7 @@
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/piegosalles10kk/LEITOR-DE-PLACAS">
-        <img src="https://via.placeholder.com/250x150/3CB371/FFFFFF?text=License+Plate" alt="LEITOR-DE-PLACAS" style="border-radius: 8px;">
+        <img src="https://i.postimg.cc/8c3ZvCvx/logo-leitor-de-placas.png" alt="LEITOR-DE-PLACAS" style="border-radius: 8px;">
         <h3>LEITOR-DE-PLACAS</h3>
         <p>Projeto de Visão Computacional em Python para leitura e processamento de placas veiculares.</p>
       </a>
