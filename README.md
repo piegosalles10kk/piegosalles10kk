@@ -19,8 +19,9 @@
 <p>Contribuições em tempo real que refletem meu foco e dedicação:</p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piegosalles10kk&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piegosalles10kk&layout=compact&theme=default&hide_border=true" alt="Linguagens Mais Usadas"/>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=piegosalles10kk&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piegosalles10kk&layout=compact&theme=transparent&hide_border=true" alt="Linguagens Mais Usadas"/>
 </p>
     
 </div>
