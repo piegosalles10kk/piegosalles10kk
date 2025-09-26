@@ -89,21 +89,21 @@
   <tr width="100%">
     <td width="33%" align="center">
       <a href="https://github.com/piegosalles10kk/AUTOMACAO-CMDB-GLPI">
-        <img src="https://i.postimg.cc/mDCNtSwd/logo-api.png" alt="AUTOMACAO-CMDB-GLPI" style="border-radius: 8px;">
+        <img src="https://i.postimg.cc/mDCNtSwd/logo-api.png" alt="AUTOMACAO-CMDB-GLPI" width="400" height="400" style="border-radius: 8px;">
         <h3>AUTOMACAO-CMDB-GLPI</h3>
         <p>Scripts em JavaScript para automação e gestão de ativos em CMDB/GLPI.</p>
       </a>
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/piegosalles10kk/RMM-OFFLINE">
-        <img src="https://i.postimg.cc/7Y8P3nNB/logo-rmm.png" alt="RMM-OFFLINE" style="border-radius: 8px;">
+        <img src="https://i.postimg.cc/7Y8P3nNB/logo-rmm.png" alt="RMM-OFFLINE" width="400" height="400" style="border-radius: 8px;">
         <h3>RMM-OFFLINE</h3>
-        <p>Solução de Monitoramento e Gerenciamento Remoto para ambientes isolados em TypeScript.</p>
+        <p>Solução de Monitoramento e Gerenciamento Remoto para ambientes isolados em TypeScript e Python.</p>
       </a>
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/piegosalles10kk/LEITOR-DE-PLACAS">
-        <img src="https://i.postimg.cc/8c3ZvCvx/logo-leitor-de-placas.png" alt="LEITOR-DE-PLACAS" style="border-radius: 8px;">
+        <img src="https://i.postimg.cc/8c3ZvCvx/logo-leitor-de-placas.png" alt="LEITOR-DE-PLACAS" width="400" height="400" style="border-radius: 8px;">
         <h3>LEITOR-DE-PLACAS</h3>
         <p>Projeto de Visão Computacional em Python para leitura e processamento de placas veiculares.</p>
       </a>
@@ -112,25 +112,12 @@
   <tr width="100%">
     <td width="33%" align="center">
       <a href="https://github.com/piegosalles10kk/TemplateLogin">
-        <img src="https://via.placeholder.com/250x150/FFD700/000000?text=Login+Template" alt="TemplateLogin" style="border-radius: 8px;">
+        <img src="https://i.postimg.cc/rFZDSrKC/logo-login.png" alt="TemplateLogin" width="400" height="400" style="border-radius: 8px;">
         <h3>TemplateLogin</h3>
         <p>Template de interface de login responsivo, ideal para integração com APIs Backend.</p>
       </a>
     </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/piegosalles10kk/seu-novo-projeto-backend">
-        <img src="https://via.placeholder.com/250x150/FF4500/FFFFFF?text=Backend+API" alt="Novo Projeto Backend" style="border-radius: 8px;">
-        <h3>⭐ API Backend Simples ⭐</h3>
-        <p>Sua próxima demonstração de uma API REST robusta (ex: Node.js/Express).</p>
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/piegosalles10kk/outro-projeto">
-        <img src="https://via.placeholder.com/250x150/6A5ACD/FFFFFF?text=Outro+Projeto" alt="Outro Projeto" style="border-radius: 8px;">
-        <h3>Outro Projeto Interessante</h3>
-        <p>Mostre aqui um projeto adicional que você tenha orgulho!</p>
-      </a>
-    </td>
+    
   </tr>
 </table>
     
