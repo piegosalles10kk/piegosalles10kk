@@ -50,21 +50,21 @@
   <tr width="100%">
     <td width="33%" align="center">
       <a href="https://github.com/piegosalles10kk/AUTOMACAO-CMDB-GLPI">
-        <img src="https://i.postimg.cc/mDCNtSwd/logo-api.png" alt="AUTOMACAO-CMDB-GLPI" width="400" height="400" style="border-radius: 8px;">
+        <img src="https://i.postimg.cc/mDCNtSwd/logo-api.png" alt="AUTOMACAO-CMDB-GLPI" width="400" height="400" style="border-radius: 50%;">
         <h3>AUTOMACAO-CMDB-GLPI</h3>
         <p>Scripts em JavaScript para automação e gestão de ativos em CMDB/GLPI.</p>
       </a>
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/piegosalles10kk/RMM-OFFLINE">
-        <img src="https://i.postimg.cc/7Y8P3nNB/logo-rmm.png" alt="RMM-OFFLINE" width="400" height="400" style="border-radius: 8px;">
+        <img src="https://i.postimg.cc/7Y8P3nNB/logo-rmm.png" alt="RMM-OFFLINE" width="400" height="400" style="border-radius: 50%;">
         <h3>RMM-OFFLINE</h3>
         <p>Solução de Monitoramento e Gerenciamento Remoto para ambientes isolados em TypeScript e Python.</p>
       </a>
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/piegosalles10kk/LEITOR-DE-PLACAS">
-        <img src="https://i.postimg.cc/8c3ZvCvx/logo-leitor-de-placas.png" alt="LEITOR-DE-PLACAS" width="400" height="400" style="border-radius: 8px;">
+        <img src="https://i.postimg.cc/8c3ZvCvx/logo-leitor-de-placas.png" alt="LEITOR-DE-PLACAS" width="400" height="400" style="border-radius: 50%;">
         <h3>LEITOR-DE-PLACAS</h3>
         <p>Projeto de Visão Computacional em Python para leitura e processamento de placas veiculares.</p>
       </a>
@@ -75,7 +75,7 @@
       <a href="https://github.com/piegosalles10kk/TemplateLogin">
         <img src="https://i.postimg.cc/rFZDSrKC/logo-login.png" alt="TemplateLogin" width="400" height="400" style="border-radius: 50%;">
         <h3>TemplateLogin</h3>
-        <p>Template de interface de login responsivo, ideal para integração com APIs Backend.</p>
+        <p>Template de interface de login responsivo com autenticação JWT, ideal para facilitar a inicialização de APIs Backend.</p>
       </a>
     </td>
     
