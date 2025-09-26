@@ -78,15 +78,6 @@
         <p>Template de interface de login responsivo com autenticação JWT, facilitando inicialização de APIs Backend.</p>
       </a>
     </td>
-    <td width="33%" align="center">
-      <a href="https://github.com/piegosalles10kk/seu-novo-projeto-backend">
-        <img src="https://via.placeholder.com/180x180/FF4500/FFFFFF?text=BACKEND+API" alt="Novo Projeto Backend" style="border-radius: 50%;">
-        <h3>⭐ API de Microserviço ⭐</h3>
-        <p>Construa aqui uma API robusta (Node.js ou Java) para demonstrar escalabilidade e testes.</p>
-      </a>
-    </td>
-    <td width="33%" align="center">
-      </td>
   </tr>
 </table>
     
@@ -102,16 +93,15 @@
 Foco em código limpo, contêineres e deploy eficiente, cobrindo todo o espectro do desenvolvimento.
 </p>
 
-<table width="100%" align="center" style="border-collapse: collapse;">
+<table width="100%" align="center" style="border-collapse: collapse; border-spacing: 0;">
 <tr>
-<td width="45%" align="center" style="padding: 0;">
+<td width="50%" align="center" style="padding-right: 5%;"> 
 <h3>Frontend</h3>
 <a href="https://skillicons.dev" target="_blank">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular" />
 </a>
 </td>
-<td width="10%" style="padding: 0;"></td>
-<td width="45%" align="center" style="padding: 0;">
+<td width="50%" align="center" style="padding-left: 5%;">
 <h3>Backend</h3>
 <a href="https://skillicons.dev" target="_blank">
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,spring,ruby,rails" />
@@ -119,14 +109,13 @@ Foco em código limpo, contêineres e deploy eficiente, cobrindo todo o espectro
 </td>
 </tr>
 <tr>
-<td width="45%" align="center" style="padding: 0;">
+<td width="50%" align="center" style="padding-right: 5%;">
 <h3>Bancos de Dados</h3>
 <a href="https://skillicons.dev" target="_blank">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,graphql" />
 </a>
 </td>
-<td width="10%" style="padding: 0;"></td>
-<td width="45%" align="center" style="padding: 0;">
+<td width="50%" align="center" style="padding-left: 5%;">
 <h3>DevOps & Infraestrutura</h3>
 <a href="https://skillicons.dev" target="_blank">
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,githubactions" />
@@ -136,6 +125,8 @@ Foco em código limpo, contêineres e deploy eficiente, cobrindo todo o espectro
 </table>
 
 </div>
+
+-----
 
 <div align="center">
     
