@@ -29,10 +29,10 @@
 ## 🚀 Sobre o Meu Trabalho
 
 <p>
-  Atuo no **ciclo completo do desenvolvimento de software**, especializando-me na criação de **soluções Backend robustas e escaláveis** que suportam aplicações de alto tráfego em ambientes de produção.
+  Atuo no ciclo completo do desenvolvimento de software, especializando-me na criação de soluções Backend robustas e escaláveis que suportam aplicações de alto tráfego em ambientes de produção.
 </p>
 <p>
-  Minha experiência combina o desenvolvimento de APIs de alto desempenho com a **automação e gestão de infraestrutura**, um conhecimento aprofundado adquirido como ex-Técnico de Informática em ambientes de alta demanda.
+  Minha experiência combina o desenvolvimento de APIs de alto desempenho com a automação e gestão de infraestrutura, um conhecimento aprofundado adquirido como ex-Técnico de Informática em ambientes de alta demanda.
 </p>
     
 </div>
@@ -133,8 +133,8 @@ Foco em código limpo, contêineres e deploy eficiente, cobrindo todo o espectro
 ## ✉️ Conecte-se Comigo!
     
 <p>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:seu_email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="https://www.linkedin.com/in/diego-salles-teixeira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="mailto:diegosalles@live.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=outlook&logoColor=white" alt="Email Badge"/></a>
 </p>
     
 </div>
