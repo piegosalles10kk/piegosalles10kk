@@ -23,21 +23,6 @@
 ---
 
 <div align="center">
-    
-## 🚀 Sobre o Meu Trabalho
-
-<p>
-  Atuo no ciclo completo do desenvolvimento de software, especializando-me na criação de soluções Backend robustas e escaláveis que suportam aplicações de alto tráfego em ambientes de produção.
-</p>
-<p>
-  Minha experiência combina o desenvolvimento de APIs de alto desempenho com a automação e gestão de infraestrutura, um conhecimento aprofundado adquirido como ex-Técnico de Informática em ambientes de alta demanda.
-</p>
-    
-</div>
-
----
-
-<div align="center">
 
 ## ✨ Projetos em Destaque
 
