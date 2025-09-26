@@ -2,7 +2,7 @@
     
 # Olá, sou o Diego Salles 👋
     
-### Engenheiro de Software | Backend | DevOps & Infraestrutura
+### Software Engineer | Backend | DevOps & Infraestrutura
     
 </div>
 
