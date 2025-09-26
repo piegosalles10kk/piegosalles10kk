@@ -4,10 +4,6 @@
     
 ### Engenheiro de Software | Backend | DevOps & Infraestrutura
     
-<p>
-  <img src="https://media.giphy.com/media/WFQ9n3pB9c9y3BqFv1/giphy.gif" alt="Coding GIF" width="300"/>
-</p>
-    
 </div>
 
 ---
