@@ -89,7 +89,7 @@
   <tr width="100%">
     <td width="33%" align="center">
       <a href="https://github.com/piegosalles10kk/AUTOMACAO-CMDB-GLPI">
-        <img src="https://via.placeholder.com/250x150/8A2BE2/FFFFFF?text=GLPI+Automation" alt="AUTOMACAO-CMDB-GLPI" style="border-radius: 8px;">
+        <img src="https://i.postimg.cc/mDCNtSwd/logo-api.png" alt="AUTOMACAO-CMDB-GLPI" style="border-radius: 8px;">
         <h3>AUTOMACAO-CMDB-GLPI</h3>
         <p>Scripts em JavaScript para automação e gestão de ativos em CMDB/GLPI.</p>
       </a>
