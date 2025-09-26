@@ -20,7 +20,50 @@
     
 </div>
 
----
+<div align="center">
+
+-----
+
+## 🛠️ Competências Técnicas (Tech Stack)
+
+<p align="center">
+    Foco em código limpo, contêineres e deploy eficiente, cobrindo todo o espectro do desenvolvimento.
+</p>
+
+<table width="100%" align="center" style="border-collapse: collapse; border-spacing: 0;">
+    <tr>
+        <td width="50%" align="center" style="padding-right: 5%;"> 
+            <h3>Frontend</h3>
+                <a href="https://skillicons.dev" target="_blank">
+                <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular" />
+                </a>
+        </td>
+        <td width="50%" align="center" style="padding-left: 5%;">
+            <h3>Backend</h3>
+                <a href="https://skillicons.dev" target="_blank">
+                <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,spring,ruby,rails" />
+                </a>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%" align="center" style="padding-right: 5%;">
+            <h3>Bancos de Dados</h3>
+                <a href="https://skillicons.dev" target="_blank">
+                <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,graphql" />
+                </a>
+        </td>
+        <td width="50%" align="center" style="padding-left: 5%;">
+            <h3>DevOps & Infraestrutura</h3>
+                <a href="https://skillicons.dev" target="_blank">
+                <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,githubactions" />
+                </a>
+        </td>
+    </tr>
+</table>
+
+</div>
+
+-----
 
 <div align="center">
 
@@ -66,50 +109,7 @@
     
 </div>
 
----
-
-<div align="center">
-
-## 🛠️ Competências Técnicas (Tech Stack)
-
-<p align="center">
-    Foco em código limpo, contêineres e deploy eficiente, cobrindo todo o espectro do desenvolvimento.
-</p>
-
-<table width="100%" align="center" style="border-collapse: collapse; border-spacing: 0;">
-    <tr>
-        <td width="50%" align="center" style="padding-right: 5%;"> 
-            <h3>Frontend</h3>
-                <a href="https://skillicons.dev" target="_blank">
-                <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular" />
-                </a>
-        </td>
-        <td width="50%" align="center" style="padding-left: 5%;">
-            <h3>Backend</h3>
-                <a href="https://skillicons.dev" target="_blank">
-                <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,spring,ruby,rails" />
-                </a>
-        </td>
-    </tr>
-    <tr>
-        <td width="50%" align="center" style="padding-right: 5%;">
-            <h3>Bancos de Dados</h3>
-                <a href="https://skillicons.dev" target="_blank">
-                <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,graphql" />
-                </a>
-        </td>
-        <td width="50%" align="center" style="padding-left: 5%;">
-            <h3>DevOps & Infraestrutura</h3>
-                <a href="https://skillicons.dev" target="_blank">
-                <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,githubactions" />
-                </a>
-        </td>
-    </tr>
-</table>
-
-</div>
-
------
+----
 
 <div align="center">
     
