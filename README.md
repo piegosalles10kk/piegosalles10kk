@@ -57,7 +57,7 @@
 ### Backend
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,spring,ruby,rails,go,deno" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,spring,ruby,rails" />
   </a>
 </p>
 
@@ -71,7 +71,7 @@
 ### DevOps & Infraestrutura
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,ansible,terraform,linux,git,githubactions" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,githubactions" />
   </a>
 </p>
     
