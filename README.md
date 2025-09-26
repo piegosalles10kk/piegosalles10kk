@@ -73,7 +73,7 @@
   <tr width="100%">
     <td width="33%" align="center">
       <a href="https://github.com/piegosalles10kk/TemplateLogin">
-        <img src="https://i.postimg.cc/rFZDSrKC/logo-login.png" alt="TemplateLogin" width="400" height="400" style="border-radius: 8px;">
+        <img src="https://i.postimg.cc/rFZDSrKC/logo-login.png" alt="TemplateLogin" width="400" height="400" style="border-radius: 50%;">
         <h3>TemplateLogin</h3>
         <p>Template de interface de login responsivo, ideal para integração com APIs Backend.</p>
       </a>
