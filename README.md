@@ -2,7 +2,7 @@
     
 # Olá, sou o Diego Salles 👋
     
-### Desenvolvedor e Entusiasta de Automação e Soluções de TI
+### Engenheiro de Software | Backend | DevOps & Infraestrutura
     
 <p>
   <img src="https://media.giphy.com/media/WFQ9n3pB9c9y3BqFv1/giphy.gif" alt="Coding GIF" width="300"/>
@@ -14,17 +14,40 @@
 
 <div align="center">
     
-## 💻 Sobre Minhas Habilidades e Foco
-    
+## 🚀 Sobre o Meu Trabalho
+
 <p>
-  Minha paixão é criar **soluções que automatizam tarefas**, desde a gestão de ativos (CMDB/GLPI) até o monitoramento de infraestrutura. Gosto de atuar na intersecção entre o desenvolvimento e a operação de sistemas.
+  Atuo no **ciclo completo do desenvolvimento de software**, especializando-me na criação de **soluções Backend robustas e escaláveis** que suportam aplicações de alto tráfego em ambientes de produção.
+</p>
+<p>
+  Minha experiência combina o desenvolvimento de APIs de alto desempenho com a **automação e gestão de infraestrutura**, um conhecimento aprofundado adquirido como ex-Técnico de Informática em ambientes de alta demanda.
+</p>
+    
+</div>
+
+---
+
+<div align="center">
+
+## 🛠️ Competências Técnicas (Tech Stack)
+
+<p>
+  Foco em código limpo, contêineres e deploy eficiente.
 </p>
 
-### 🛠️ Tech Stack & Ferramentas
+### Linguagens e Frameworks
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,python,git,linux,vscode,nodejs,docker,jest,react" />
+    <img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,java,spring,ruby,rails,docker,kubernetes" />
+  </a>
+</p>
+
+### Bancos de Dados e Cloud/Infra
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,docker,git,linux,githubactions" />
   </a>
 </p>
     
@@ -34,15 +57,17 @@
 
 <div align="center">
 
-## ✨ Meus Projetos em Destaque
+## ✨ Projetos em Destaque
 
-<p>Aqui estão alguns repositórios que refletem meu trabalho mais recente em Automação e TI:</p>
+<p>Estes repositórios demonstram minhas habilidades em transformar problemas de Infraestrutura e TI em soluções de código:</p>
 
-| Projeto | Tecnologia Principal | O que faz |
+| Projeto | Tecnologia Principal | Relevância para o LinkedIn |
 | :--- | :---: | :--- |
-| **[AUTOMACAO-CMDB-GLPI]** | JavaScript | Scripts para gestão e sincronização de ativos com CMDB/GLPI. |
-| **[RMM-OFFLINE]** | TypeScript | Solução para Monitoramento e Gerenciamento Remoto em ambientes isolados. |
-| **[LEITOR-DE-PLACAS]** | Python | Projeto de Visão Computacional para processamento e leitura de placas veiculares. |
+| **[AUTOMACAO-CMDB-GLPI]** | JavaScript | Automação e Infra-as-Code para gestão de ativos. |
+| **[RMM-OFFLINE]** | TypeScript | Solução de Monitoramento/DevOps em ambientes controlados. |
+| **[LEITOR-DE-PLACAS]** | Python | Aplicação de Visão Computacional para resolução de problemas de negócio. |
+| **[TemplateLogin]** | JavaScript | UI/Frontend que complementa a experiência de sistemas Backend. |
+| **⭐ PRÓXIMO PROJETO ⭐** | **[Node.js (Express)]** | **(Sugestão)** Crie uma API de CRUD simples para demonstrar escalabilidade. |
     
 </div>
 
@@ -52,7 +77,7 @@
 
 ## 📈 Atividade e Estatísticas do GitHub
 
-<p>Veja meus números de contribuição (atualizados automaticamente):</p>
+<p>Contribuições em tempo real que refletem meu foco e dedicação:</p>
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=piegosalles10kk&show_icons=true&theme=buefy&hide_border=true&rank_icon=github" alt="Estatísticas do GitHub"/>
