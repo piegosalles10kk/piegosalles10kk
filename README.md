@@ -96,7 +96,7 @@
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/piegosalles10kk/RMM-OFFLINE">
-        <img src="https://via.placeholder.com/250x150/4169E1/FFFFFF?text=RMM+Offline" alt="RMM-OFFLINE" style="border-radius: 8px;">
+        <img src="https://i.postimg.cc/7Y8P3nNB/logo-rmm.png" alt="RMM-OFFLINE" style="border-radius: 8px;">
         <h3>RMM-OFFLINE</h3>
         <p>Solução de Monitoramento e Gerenciamento Remoto para ambientes isolados em TypeScript.</p>
       </a>
