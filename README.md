@@ -29,55 +29,16 @@
 ## 🚀 Sobre o Meu Trabalho
 
 <p>
-  Atuo no **ciclo completo do desenvolvimento de software**, especializando-me na criação de **soluções Backend robustas e escaláveis** que suportam aplicações de alto tráfego em ambientes de produção.
+  Atuo no ciclo completo do desenvolvimento de software, especializando-me na criação de soluções Backend robustas e escaláveis que suportam aplicações de alto tráfego em ambientes de produção.
 </p>
 <p>
-  Minha experiência combina o desenvolvimento de APIs de alto desempenho com a **automação e gestão de infraestrutura**, um conhecimento aprofundado adquirido como ex-Técnico de Informática em ambientes de alta demanda.
+  Minha experiência combina o desenvolvimento de APIs de alto desempenho com a automação e gestão de infraestrutura, um conhecimento aprofundado adquirido como ex-Técnico de Informática em ambientes de alta demanda.
 </p>
     
 </div>
 
 ---
 
-<div align="center">
-
-## 🛠️ Competências Técnicas (Tech Stack)
-
-<p>
-  Foco em código limpo, contêineres e deploy eficiente, cobrindo todo o espectro do desenvolvimento.
-</p>
-
-### Frontend
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular" />
-  </a>
-</p>
-
-### Backend
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,spring,ruby,rails" />
-  </a>
-</p>
-
-### Bancos de Dados
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,graphql" />
-  </a>
-</p>
-
-### DevOps & Infraestrutura
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,githubactions" />
-  </a>
-</p>
-    
-</div>
-
----
 
 <div align="center">
 
@@ -122,6 +83,47 @@
 </table>
     
 </div>
+
+---
+
+<div align="center">
+
+## 🛠️ Competências Técnicas (Tech Stack)
+
+<p>
+  Foco em código limpo, contêineres e deploy eficiente, cobrindo todo o espectro do desenvolvimento.
+</p>
+
+### Frontend
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular" />
+  </a>
+</p>
+
+### Backend
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,spring,ruby,rails" />
+  </a>
+</p>
+
+### Bancos de Dados
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,graphql" />
+  </a>
+</p>
+
+### DevOps & Infraestrutura
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,githubactions" />
+  </a>
+</p>
+    
+</div>
+
 
 ---
 
