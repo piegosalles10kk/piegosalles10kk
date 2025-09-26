@@ -102,16 +102,16 @@
 Foco em código limpo, contêineres e deploy eficiente, cobrindo todo o espectro do desenvolvimento.
 </p>
 
-<table width="100%" align="center">
+<table width="100%" align="center" style="border-collapse: collapse;">
 <tr>
-<td width="45%" align="center">
+<td width="45%" align="center" style="padding: 0;">
 <h3>Frontend</h3>
 <a href="https://skillicons.dev" target="_blank">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular" />
 </a>
 </td>
-<td width="10%"></td>
-<td width="45%" align="center">
+<td width="10%" style="padding: 0;"></td>
+<td width="45%" align="center" style="padding: 0;">
 <h3>Backend</h3>
 <a href="https://skillicons.dev" target="_blank">
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,java,spring,ruby,rails" />
@@ -119,14 +119,14 @@ Foco em código limpo, contêineres e deploy eficiente, cobrindo todo o espectro
 </td>
 </tr>
 <tr>
-<td width="45%" align="center">
+<td width="45%" align="center" style="padding: 0;">
 <h3>Bancos de Dados</h3>
 <a href="https://skillicons.dev" target="_blank">
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,sqlite,graphql" />
 </a>
 </td>
-<td width="10%"></td>
-<td width="45%" align="center">
+<td width="10%" style="padding: 0;"></td>
+<td width="45%" align="center" style="padding: 0;">
 <h3>DevOps & Infraestrutura</h3>
 <a href="https://skillicons.dev" target="_blank">
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,git,githubactions" />
@@ -136,8 +136,6 @@ Foco em código limpo, contêineres e deploy eficiente, cobrindo todo o espectro
 </table>
 
 </div>
-
----
 
 <div align="center">
     
