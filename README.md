@@ -108,7 +108,7 @@
       <a href="https://github.com/piegosalles10kk/DOCUMENTO-2000/">
         <img src="https://i.postimg.cc/mDCNtSwd/logo-api.png" alt="AUTOMACAO-CMDB-GLPI" width="180" height="180" style="border-radius: 50%;">
         <h3>DOCUMENTO-2000</h3>
-        <p>https://github.com/piegosalles10kk/DOCUMENTO-2000/</p>
+        <p>Sistema completo de gerenciamento de documentação técnica com autenticação, controle de permissões e interface web moderna.</p>
       </a>
     </td>
   </tr>
