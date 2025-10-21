@@ -1,6 +1,6 @@
 <div align="center">
     
-# Olá, sou o Diego Salles 👋
+# Olá, sou o Diego Salles
     
 ### Software Engineer | Backend | DevOps & Infraestrutura
     
