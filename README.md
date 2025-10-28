@@ -71,6 +71,7 @@
 
 <p>Explore alguns dos meus projetos mais relevantes:</p>
 
+
 <table width="100%">
   <tr width="100%">
     <td width="33%" align="center">
@@ -106,9 +107,16 @@
     </td>
             <td width="33%" align="center">
       <a href="https://github.com/piegosalles10kk/DOCUMENTO-2000/">
-        <img src="https://i.postimg.cc/mDCNtSwd/logo-api.png" alt="AUTOMACAO-CMDB-GLPI" width="180" height="180" style="border-radius: 50%;">
+        <img src="https://i.postimg.cc/j2HhsxLk/logo-doc.png" width="180" height="180" style="border-radius: 50%;">
         <h3>DOCUMENTO-2000</h3>
         <p>Sistema completo de gerenciamento de documentação técnica com autenticação, controle de permissões e interface web moderna.</p>
+      </a>
+    </td>
+          <td width="33%" align="center">
+      <a href="https://github.com/piegosalles10kk/10KK-GETWAY-MANAGER">
+        <img src="https://i.postimg.cc/0yFKBgNZ/logo-getway.png" alt="AUTOMACAO-CMDB-GLPI" width="180" height="180" style="border-radius: 50%;">
+        <h3>API Gateway Manager</h3>
+        <p>Sistema completo de gerenciamento de API Gateway com proxy reverso dinâmico, controle de tráfego e interface web moderna.</p>
       </a>
     </td>
   </tr>
